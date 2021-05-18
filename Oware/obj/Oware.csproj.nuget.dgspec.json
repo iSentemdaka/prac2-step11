@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "j:\\Desktop\\prac2\\Oware\\Oware.csproj": {}
+    "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16b0031\\Desktop\\prac2\\Oware\\Oware.csproj": {}
   },
   "projects": {
-    "j:\\Desktop\\prac2\\Oware\\Oware.csproj": {
+    "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16b0031\\Desktop\\prac2\\Oware\\Oware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "j:\\Desktop\\prac2\\Oware\\Oware.csproj",
+        "projectUniqueName": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16b0031\\Desktop\\prac2\\Oware\\Oware.csproj",
         "projectName": "Oware",
-        "projectPath": "j:\\Desktop\\prac2\\Oware\\Oware.csproj",
+        "projectPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16b0031\\Desktop\\prac2\\Oware\\Oware.csproj",
         "packagesPath": "C:\\Users\\g16b0031\\.nuget\\packages\\",
-        "outputPath": "j:\\Desktop\\prac2\\Oware\\obj\\",
+        "outputPath": "\\\\ict.ru.ac.za\\DFS\\UGHomes\\g16b0031\\Desktop\\prac2\\Oware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
